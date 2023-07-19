@@ -1,0 +1,11 @@
+ol li {
+  font-size: 20px;
+  background-color: green;
+}
+.mid-li {
+  background-color: yellow;
+}
+#hobbies {
+  color: blue;
+  font-size: 10px;
+}
